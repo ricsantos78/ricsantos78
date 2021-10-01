@@ -1,6 +1,6 @@
 - 👋 Olá! meu nome é José Ricardo
-- 👀 Hoje trabalho com back-end e um pouco de front.
-- 🌱 Estudando Front-end do basico ao avançado.
+- 💻 Hoje trabalho com back-end e um pouco de front-end.
+- 📚 Estudando Front-end do basico ao avançado.
 
   ##
 <div align="center">
